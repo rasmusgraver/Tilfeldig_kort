@@ -1,0 +1,7 @@
+
+# Ignore DS_Store file everywhere:
+**/.DS_Store 
+
+# Ignore zip-files:
+**/*.zip 
+
